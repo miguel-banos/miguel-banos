@@ -52,4 +52,18 @@ Aplicación de escritorio para crear, evaluar y visualizar modelos de regresión
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 💶 Mis cuentas
+App web instalable para apuntar ingresos y gastos por secciones y ver cuánto queda cada mes. Diseñada para una usuaria real poco habituada a la tecnología: letra y botones grandes, lenguaje sencillo y sin menús ocultos. Inicio de sesión con Google, datos separados por usuario y funcionamiento sin conexión. **En producción.**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+[Ver repo →](https://github.com/miguel-banos/mis-cuentas) · [Probar la demo →](https://miscuentas-6ba18.web.app/?demo)
+
+</td>
+</tr>
 </table>
