@@ -53,11 +53,3 @@ Aplicación de escritorio para crear, evaluar y visualizar modelos de regresión
 </td>
 </tr>
 </table>
-
-## 📊 Estadísticas
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=miguel-banos&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" />
