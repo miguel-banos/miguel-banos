@@ -19,7 +19,7 @@
 ## 👋 Sobre mí
 
 > [!NOTE]
-> Soy Miguel, estudiante de último año del Grado en Inteligencia Artificial en la **Universidade da Coruña**. Busco prácticas en el sector tech/IA en A Coruña.
+> Soy Miguel, estudiante de último año del Grado en Inteligencia Artificial en la **Universidade da Coruña**.
 
 - 📊 Me gusta trabajar a partir de datos: estudiarlos, entenderlos y descubrir qué se puede sacar de ellos.
 - 🧠 Entreno modelos, construyo aplicaciones útiles a partir de ellos y los llevo hasta el despliegue.
