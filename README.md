@@ -66,4 +66,19 @@ App web instalable para apuntar ingresos y gastos por secciones y ver cuánto qu
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 🥫 Mi despensa
+App web instalable para llevar lo que hay en casa: resta sola lo que se gasta en cada comida, avisa con una notificación cuando algo baja del mínimo que elijas y lo pasa a la lista de la compra. Con **IA (Gemini)** que propone recetas con lo que tienes y descuenta sus ingredientes al cocinarlas. Despensa compartida entre varias personas con código de invitación y sincronización en tiempo real. **En producción.**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+[Ver repo →](https://github.com/miguel-banos/mi-despensa) · [Probar la demo →](https://mi-despensa-8aba8.web.app/?demo)
+
+</td>
+</tr>
 </table>
